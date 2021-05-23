@@ -7,8 +7,8 @@ public class Shop {
 	
 	String name;
 	public void save() {
-		
-		System.out.println("ÄãºÃÀ²À²À²");
+		//aaaa	
+		System.out.println("Ã„Ã£ÂºÃƒÃ€Â²Ã€Â²Ã€Â²");
 		
 	}
 	
